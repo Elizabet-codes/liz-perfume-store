@@ -176,6 +176,13 @@ li span {
 .btn-buy {
   position: absolute;
   left: -30px;
+  margin-top:2rem;
+}
+
+.btn-buy:hover {
+  background-color: var(--hover-color);
+  color:var(--background-color);
+  
 }
 .more-info {
   opacity: 0;
